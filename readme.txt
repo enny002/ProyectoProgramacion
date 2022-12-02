@@ -1,0 +1,3 @@
+En este juego te daremos una letra al azar y con esta letra tendras que hallar palabras que inicien con ella, claro que estas palabras no seran cualquier tipo de palabras, ya que tambien te daremos que tipo de palabras debes buscar que inicien con esta letra.
+este juego fue hecho en c++, el cual cuanta con caracterisiticas de variable, cuenta con datos random "rand" y cuenta con un medidor de tiempo, es un juego didactico hecho exclusivamente para proyecto de clase
+HECHO POR ADRIAN SAMUDIO PUA Y DAVID MEJIA
